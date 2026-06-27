@@ -2,7 +2,7 @@
 
 A RESTful API for the Expense Tracker app, built with **Express.js**, **TypeScript**, and **MongoDB**.
 
-🌐 **Live API:** [https://your-backend.vercel.app](https://your-backend.vercel.app)
+🌐 **Live API:** [https://my-task-backend-seven.vercel.app](https://my-task-backend-seven.vercel.app)
 
 ---
 
