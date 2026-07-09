@@ -185,7 +185,7 @@ MONGODB_URI = your_mongodb_connection_string
 ## 🧑‍💻 Author
 
 **Mohiuddin**
-GitHub: [@muhiuddinshanto](https://github.com/muhiuddinshanto)
+GitHub: [@mohiuddinshanto](https://github.com/mohiuddinshanto)
 
 ---
 
